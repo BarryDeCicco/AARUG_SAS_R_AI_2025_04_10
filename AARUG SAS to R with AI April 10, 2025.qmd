@@ -1,5 +1,5 @@
 ---
-title: "AARUG SAS to R with AI (April 10,  2025)"
+title: "AARUG SAS to R with AI (May 14,  2025)"
 format: html
 editor: visual
 ---
@@ -16,7 +16,7 @@ editor: visual
 
 ## My Experience So Far:
 
-   Has mainly been in SAS =\> Python/PySpark/Pandas
+Has mainly been in SAS =\> Python/PySpark/Pandas
 
 -   Conversion by 'paragraph' (small block) is 90% correct.
 
