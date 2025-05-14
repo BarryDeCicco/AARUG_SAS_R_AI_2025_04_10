@@ -1,7 +1,6 @@
 ---
 title: "AARUG SAS to R with AI (May 14,  2025)"
 format: html
-    self-contained: true
 editor: visual
 ---
 
